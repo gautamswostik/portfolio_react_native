@@ -1,4 +1,4 @@
-package com.my_portfolio;
+package com.swostik_gautam_portfolioo;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

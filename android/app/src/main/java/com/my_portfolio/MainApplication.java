@@ -1,4 +1,4 @@
-package com.my_portfolio;
+package com.swostik_gautam_portfolio;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

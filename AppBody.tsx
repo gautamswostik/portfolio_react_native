@@ -31,7 +31,7 @@ export const AppBody = () => {
         },
     ]
 
-    const skills: Array<String> = ["Flutter", "Dart", "Swift", "Typescript", "Javascript", "SwiftUi", "UIKit", "React-Native", "Git", "Firebase"]
+    const skills: Array<String> = ["Flutter", "Dart", "Swift", "Typescript", "Javascript", "SwiftUi", "React-Native", "Git", "Firebase"]
 
     return (<View>
         <ScrollView>
