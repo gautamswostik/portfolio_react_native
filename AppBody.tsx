@@ -42,7 +42,7 @@ export const AppBody = () => {
                 <Text style={styles.headerTwoStyle}>Professional Experience</Text>
                 <ExperienceView companyName={"F1Soft International Pvt. Ltd"}
                     experienceTime={"06/2022 - Present"}
-                    worksDid={[AppString.f1WorkOne, AppString.f1WorkTwo, AppString.f1WorkThree, AppString.f1WorkFour]} />
+                    worksDid={[AppString.f1WorkOne, AppString.f1WorkTwo, AppString.f1WorkThree]} />
                 <ExperienceView companyName={"Rolling Nexus Pvt. Ltd"}
                     experienceTime={"01/2022 - 06/2022"}
                     worksDid={[AppString.rollingWorkOne, AppString.rollingWorkTwo, AppString.rollingWorkThree]} />

@@ -4,8 +4,8 @@ export class AppString {
 
     static f1WorkOne: String = "Worked on a mobile banking application of major banks of Nepal"
     static f1WorkTwo: String = "Responsibilities include reviewing PRs, shipping new features, and improving application performance"
-    static f1WorkThree: String = "Worked on creating dynamic forms"
-    static f1WorkFour: String = "Worked on implementing scan to pay using qr scanner"
+    static f1WorkThree: String = "Migrated an Native projects to Flutter which was huge breaking change."
+    
     static rollingWorkOne: String = "Worked on creating a Human Resource management system"
     static rollingWorkTwo: String = "Worked on new feature implementation, bug fixes and refactoring of old applications"
     static rollingWorkThree: String = "Uploading application on play store and app store."
