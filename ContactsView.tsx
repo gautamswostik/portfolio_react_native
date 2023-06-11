@@ -42,6 +42,7 @@ const styles = StyleSheet.create({
         alignSelf: "center",
         fontSize: 18,
         paddingLeft: 20,
-        color: "white"
+        color: "white",
+        textDecorationLine:"underline"
     },
 })

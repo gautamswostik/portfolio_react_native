@@ -12,7 +12,9 @@ export const AppBody = () => {
             }
         },
         {
-            iconName: "envelope", contact: "swastikg11@gmail.com", onPressed: async () => { }
+            iconName: "envelope", contact: "swastikg11@gmail.com", onPressed: async () => { 
+                await Linking.openURL('mailto:swastikg11@gmail.com') 
+            }
         },
         {
             iconName: "phone", contact: "+977 9841174765", onPressed: async () => {
